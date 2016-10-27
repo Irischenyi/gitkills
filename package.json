@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISCssss",
   "devDependencies": {
     "babel-core": "^6.7.4",
     "babel-polyfill": "^6.7.4",
